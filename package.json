@@ -1,0 +1,15 @@
+{
+  "name": "nginz",
+  "version": "1.0.0",
+  "description": "Custom reverse proxy with round-robin load balancing",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js",
+    "backend:1": "node backends/server.js 3001",
+    "backend:2": "node backends/server.js 3002",
+    "backend:3": "node backends/server.js 3003"
+  },
+  "keywords": ["reverse-proxy", "load-balancer", "round-robin", "nginx"],
+  "author": "",
+  "license": "MIT"
+}
