@@ -1,4 +1,3 @@
-Below is a cleaned, consistent, and properly formatted **Markdown (README.md)** version of your content. The structure, code fences, table, and headings are fixed, with no content changes beyond formatting and clarity.
 
 ---
 
@@ -99,9 +98,3 @@ MIT
 
 ---
 
-If you want, I can also:
-
-* Rewrite this README to match GitHub “featured project” style
-* Add a comparison section vs NGINX
-* Add architecture + sequence diagrams
-* Review the actual proxy.js code for correctness and edge cases
